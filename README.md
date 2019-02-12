@@ -1,2 +1,1 @@
-# demo
-Demo repository
+This is a readme, it's for my repo demo.
